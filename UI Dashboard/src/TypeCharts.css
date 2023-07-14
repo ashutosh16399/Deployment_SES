@@ -1,0 +1,98 @@
+.topicsByTypeContainer{
+    width: 700px;
+    height: 600px;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+  
+.text-color-topic {
+    color: black;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -180px;
+  }
+
+.vertDivider {
+    margin-left: 730px;
+    margin-top: -750px;
+    border-left: 1px solid #808080;
+    height: 880px;
+  }  
+
+.text-color-type
+{
+  color: black;
+  font-size: 30px;
+  position: absolute;
+  margin-left: 760px;
+  margin-top: -910px;
+}
+
+.tableStyle{
+  width: 550px;
+  height: 500px;
+  margin-top: -85px;
+  margin-left: 800px;
+}
+
+.styled-type-table {
+  margin: 25px 0;
+  font-family: sans-serif;
+  width: 600px;
+  height: 600px;
+  margin-left: -30px;
+  margin-top: -800px;
+  border: 1px solid rgb(92, 89, 89);
+}
+
+.styled-type-table th,
+.styled-type-table td {
+    padding: 12px 15px;
+    color: white;
+    font-size: 0.9em;
+    border: 1px solid grey;
+}
+
+.styled-type-table thead tr {
+  background-color: #181a2b;
+  color: #ffffff;
+  text-align: center;
+  font-size: 1.3em;
+  padding: 15px 20px;
+}
+.styled-type-table tbody tr:nth-of-type(even) {
+  background-color: #193761;
+}
+
+.styled-type-table tbody tr:nth-of-type(odd) {
+  background-color: #193761;
+}
+
+.paginationStyle
+{
+  display: inline-block;
+}
+
+.paginationStyle button {
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  background-color: rgb(136, 135, 135);
+}
+
+.paginationStyle button.active
+{
+  background-color: #1f1d1d;
+  color: white;
+  border-radius: 8px;
+}
+
+.style_topic_type
+{
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 1052px;
+  margin-top: -902px;
+}

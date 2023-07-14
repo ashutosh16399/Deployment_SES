@@ -1,0 +1,102 @@
+.topicsContainer{
+    width: 650px;
+    height: 650px;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+  
+.text-color-topic {
+    color: black;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -170px;
+}
+
+.style_topic_name
+{
+    color: black;
+    font-size: 19px;
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: -28px;
+}
+
+.style_subtopic_name{
+    color: black;
+    font-size: 19px;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: -28px;
+}
+
+.text-color-sentinment
+{
+    color:black;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 760px;
+    margin-top: -950px;  
+}  
+
+.sentimentStyle
+{
+    margin-top: -800px;
+    margin-left: 800px;
+
+}
+
+.positiveSentiment
+{
+    width: 150px;
+    height: 180px;
+} 
+
+.negativeSentiment
+{
+    width: 150px;
+    height: 180px;
+    margin-top: -185px;
+    margin-left: 210px;
+} 
+
+.neutralSentiment
+{
+    width: 150px;
+    height: 180px;
+    margin-top: -175px;
+    margin-left: 420px;
+} 
+
+
+.text-color-table {
+    color: black;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 450px;
+    font-size: 30px;
+}
+
+.tableStyle
+{
+    width: 550px;
+    height: 500px;
+    margin-top: -65px;
+    margin-left: 800px;
+}
+
+
+.vertDivider {
+    margin-left: 730px;
+    margin-top: -750px;
+    border-left: 2px solid #6c6c6c;
+    height: 880px;
+  }
+
+.hortDivider
+{
+    margin-left: 770px;
+    margin-top: -10px;
+    border-bottom: 2px solid rgb(103, 103, 103);
+    width: 600px;
+}  
